@@ -1,0 +1,14 @@
+C:\Users\suman\source\repos\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+C:\Users\suman\source\repos\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe
+C:\Users\suman\source\repos\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.pdb
+C:\Users\suman\source\repos\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+C:\Users\suman\source\repos\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.SuggestedBindingRedirects.cache
+C:\Users\suman\source\repos\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.Form1.resources
+C:\Users\suman\source\repos\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.Properties.Resources.resources
+C:\Users\suman\source\repos\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.GenerateResource.cache
+C:\Users\suman\source\repos\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+C:\Users\suman\source\repos\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.exe
+C:\Users\suman\source\repos\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.pdb
+C:\Users\suman\source\repos\SpaceShooter\SpaceShooter\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\suman\source\repos\SpaceShooter\SpaceShooter\obj\Debug\Interop.WMPLib.dll
+C:\Users\suman\source\repos\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.ResolveComReference.cache
